@@ -14,3 +14,8 @@ Przedstawię w mojej pracy porównanie systemów kontroli wersji takich jak Git,
 komentarz do chapter 2 - bla bla
 
 ## sposoby mergowania
+
+fast forward
+no fast forward
+cherry-pick
+3-way-merge
