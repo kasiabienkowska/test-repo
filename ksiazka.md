@@ -12,3 +12,5 @@ Przedstawię w mojej pracy porównanie systemów kontroli wersji takich jak Git,
 ## Zadania z GIT
 
 komentarz do chapter 2 - bla bla
+
+## sposoby mergowania
