@@ -19,3 +19,5 @@ fast forward
 no fast forward
 cherry-pick
 3-way-merge
+
+## repozytorium zdalne
